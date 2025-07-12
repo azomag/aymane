@@ -1,0 +1,19 @@
+.swiper-pagination {
+  bottom: auto; /* désactive la position bottom par défaut */
+  top: 10px; /* place la pagination à 10px du haut */
+  left: 0;
+  width: 100%;
+  text-align: center;
+}
+.swiper-pagination {
+  bottom: 10px; /* ou autre */
+  top: auto;
+  left: 10px; /* ou right: 10px; */
+  width: auto;
+  height: auto;
+  text-align: left;
+  transform: none; /* parfois utile pour reset */
+}
+.swiper-pagination {
+  bottom: 20px;
+}
